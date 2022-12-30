@@ -19,6 +19,10 @@ console.log(`I eat ${myFavoriteJourneyMeal} at every ${myFavoriteMeals}`);
  * Par exemple :I watched 3 series : black mirror, money heist, and the big bang theory
  */
 
+/****************************************************************
+Correcteur: Yannick GOUGUIA
+mauvaises reponses a la ligne 25 et 28, veuillez revoir l'exercice
+*****************************************************************/
 const myWatchedSeries = ["black mirror", "money heist", "the big bang theory"];
 let myWatchedSeriesLengthdont = myWatchedSeries.length;
 let myWatchedSeriesSentence = "money heist, the big bang theory and black mirror.";
